@@ -6,7 +6,7 @@ export type Device = {
     ua?: string
     geo?: Geo
     dnt?: number
-    lmp?: number
+    lmt?: number
     ip?: string
     ipv6?: string
     devicetype?: DeviceType
